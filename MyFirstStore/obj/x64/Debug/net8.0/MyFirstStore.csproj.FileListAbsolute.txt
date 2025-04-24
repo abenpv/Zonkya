@@ -1,0 +1,74 @@
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.exe
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.deps.json
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.runtimeconfig.json
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.dll
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.pdb
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfoInputs.cache
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfo.cs
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.csproj.CoreCompileInputs.cache
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.dll
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\refint\MyFirstStore.dll
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.pdb
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.genruntimeconfig.cache
+C:\ap24-25\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\ref\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.exe
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.deps.json
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.runtimeconfig.json
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.pdb
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfoInputs.cache
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfo.cs
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.csproj.CoreCompileInputs.cache
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.sourcelink.json
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\refint\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.pdb
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.genruntimeconfig.cache
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\c#\c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\ref\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.exe
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.deps.json
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.runtimeconfig.json
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.pdb
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfoInputs.cache
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfo.cs
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.csproj.CoreCompileInputs.cache
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.sourcelink.json
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\refint\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.pdb
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.genruntimeconfig.cache
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\ref\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.exe
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.deps.json
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.runtimeconfig.json
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.pdb
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfoInputs.cache
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfo.cs
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.csproj.CoreCompileInputs.cache
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.sourcelink.json
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\refint\MyFirstStore.dll
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.pdb
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.genruntimeconfig.cache
+C:\Users\benac\OneDrive - AP Hogeschool Antwerpen\Bureaublad\school 25\project c#\Project\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\ref\MyFirstStore.dll
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.exe
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.deps.json
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.runtimeconfig.json
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.dll
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\bin\x64\Debug\net8.0\MyFirstStore.pdb
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfoInputs.cache
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.AssemblyInfo.cs
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.csproj.CoreCompileInputs.cache
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.sourcelink.json
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.dll
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\refint\MyFirstStore.dll
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.pdb
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\MyFirstStore.genruntimeconfig.cache
+C:\Users\benac\Cloud\Bureaublad\StoreC#\MyFirstStore (volledig)\MyFirstStore\MyFirstStore\obj\x64\Debug\net8.0\ref\MyFirstStore.dll
