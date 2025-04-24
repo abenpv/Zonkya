@@ -23,7 +23,7 @@ Zonkya is a C# project developed for a school assignment by Ali Benacher. It sim
 
 2. Open the project in VSCode.
 
-3. Open the integrated terminal in VSCode ("`Ctrl + `").
+3. Open the integrated terminal in VSCode ("`Ctrl + ù`").
 
 4. Run the project using the command:
     ```bash
